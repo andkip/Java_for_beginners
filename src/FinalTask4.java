@@ -13,9 +13,9 @@ public class FinalTask4 {
                 System.out.println("Объект поиска лаборатории Касперского");
                 attempts = 2;
             } else if (answer.equalsIgnoreCase("Подсказка")) {
-                System.out.println("Подсказка не доступна");
+                System.out.println("Подсказка уже недоступна");
             } else if (attempts == 2){
-                System.out.println("Обидно, приходи в другой раз!");
+                System.out.println("Обидно, приходи в другой раз");
                 break;
             } else {
                 System.out.println("Подумай еще!");
