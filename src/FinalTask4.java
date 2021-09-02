@@ -1,5 +1,11 @@
 import java.util.Scanner;
 
+/**
+ * Задание: Напишите программу-загадку:
+ * “Сидит дед, во сто шуб одет, кто его раздевает, тот слезы проливает”.
+ * Ответ: “Заархивированный вирус”.
+ */
+
 public class FinalTask4 {
     public static void main(String[] args) {
         int attempts = 0;

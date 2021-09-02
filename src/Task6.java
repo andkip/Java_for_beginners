@@ -26,7 +26,6 @@ public class Task6 {
                 default:
                     System.out.println("Выбрана некорректная величина");
             }
-            scan.close();
         }
 
         public static void distanceConvert(int size, double value){
